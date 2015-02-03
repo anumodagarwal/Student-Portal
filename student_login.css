@@ -1,0 +1,32 @@
+ 
+body {
+	font-style: normal;
+	background-image: url("/home/anu/Documents/website/raw/image1.jpeg");
+	font-size: 0.875em;																								
+	/*background-repeat: no-repeat;*/ 
+}
+div {
+	margin-top: 200px;
+	background-color: #ffffff;
+    width: 380px;
+    height: 250px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    margin-left: 500px;
+    opacity: 0.8;
+}
+.iframewrapper  {
+	background-color : #312343;
+	margin-top :100px;
+    text-transform: uppercase;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2.5em;
+}
+p{
+text-align: center;
+font-size: 1.5em;
+}

@@ -1,0 +1,25 @@
+body {
+	font-style: normal;
+	background-image: url("raw/inkpen.jpg");
+	background-repeat: 	no-repeat;
+	/*background-color: #CEF6F5
+	font-size: 0.875em;	*/
+}
+div{
+  margin-left:700px;
+  font-size: 0.875em;
+}
+	
+table {
+	text-align: center;
+	border: 5px solid grey;
+}
+th{
+	
+	background-color: green;
+	
+}
+h1,p{
+	text-align: center;
+} 
+
